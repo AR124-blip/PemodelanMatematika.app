@@ -1,6 +1,0 @@
-streamlite
-numpy
-matplotlib.pyplot
-scipy.optimize
-math
-pandas
